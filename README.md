@@ -70,6 +70,13 @@
 
 ---
 
+# 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paul8478&theme=dracula&no-frame=true&no-bg=false&margin-w=15"/>
+</p>
+
+---
+
 # 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
