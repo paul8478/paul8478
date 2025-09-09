@@ -70,6 +70,14 @@
 
 ---
 
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paul8478&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul8478&theme=radical&hide_border=false" height="180px"/>
+</p>
+
+---
+
 # 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paul8478&theme=dracula&no-frame=true&no-bg=false&margin-w=15"/>
