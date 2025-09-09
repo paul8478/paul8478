@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white"/>
 
 <!-- Cloud & Tools -->
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -61,7 +61,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paul8478&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=paul8478&theme=radical&hide_border=false" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paul8478&theme=radical&hide_border=false" height="180px"/>
 </p>
 
 <p align="center">
@@ -79,9 +79,9 @@
 
 # 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-link"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-REAL-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-REAL-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/></a>
 </p>
 
 ---
