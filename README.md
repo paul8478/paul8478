@@ -68,7 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul8478&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
 </p>
 
-#  GitHub Stats:
 <p align="center">
 
   <!-- Streak card via Vercel (more reliable) -->
