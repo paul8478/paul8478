@@ -70,7 +70,7 @@
 
 ---
 
-# 🏆 GitHub Trophies::
+# 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paul8478&theme=dracula&no-frame=true&no-bg=false&margin-w=15"/>
 </p>
